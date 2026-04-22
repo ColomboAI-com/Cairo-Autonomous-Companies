@@ -142,6 +142,20 @@ while operator.status == "active":
     emit_events(result)
 ```
 
+### UAPE — Universal Autonomous Process Engine
+Provides the execution substrate for long-running autonomous work. UAPE coordinates multi-step reasoning, tool use, state transitions, and recovery paths so operators can keep moving from intent to outcome without fragile one-shot flows.
+
+```text
+intent → plan → execute → verify → adapt → continue
+```
+
+### DCRS — Dynamic Capabilities Retrieval System
+Finds the right skills, tools, plugins, and operator capabilities at runtime. DCRS lets Cairo retrieve what an autonomous company needs in the moment instead of hard-wiring every possible action path ahead of time.
+
+```text
+signal arrives → retrieve relevant capabilities → rank best actions → pass to operator loop
+```
+
 ### EIL — Event Intelligence Layer
 Makes your company reactive to the real world.
 
