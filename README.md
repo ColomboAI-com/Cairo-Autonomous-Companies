@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cairo.colomboai.com"><strong>▶ Try Cairo live</strong></a>
+  <a href="https://cairo.colomboai.com/app/#/login"><strong>▶ Try Cairo live</strong></a>
 </p>
 
 ---
