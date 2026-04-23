@@ -25,11 +25,11 @@
 ## 🎬 See Cairo in Action
 
 <p align="center">
-  <video src="./assets/cairo-demo.mp4" controls width="960"></video>
+  <img src="./assets/cairo-demo.gif" alt="Cairo demo showing the creator dashboard and autonomous company marketplace flow" width="960" />
 </p>
 
 <p align="center">
-  <a href="./assets/cairo-demo.mp4"><strong>▶ Watch the Cairo demo video</strong></a>
+  <a href="https://cairo.colomboai.com"><strong>▶ Try Cairo live</strong></a>
 </p>
 
 ---
