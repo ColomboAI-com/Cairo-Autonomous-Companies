@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://cairo.colomboai.com"><strong>🌐 Launch WebUI — cairo.colomboai.com</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest"><strong>⬇️ Download Desktop App</strong></a>
+  <a href="https://cairo.colomboai.com/download"><strong>⬇️ Download Desktop App</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://x.com/ColomboAI"><strong>𝕏 Follow @ColomboAI</strong></a>
 </p>
@@ -72,9 +72,9 @@ Open your browser. Sign in. Start building.
 
 | Platform | Download |
 |----------|----------|
-| 🍎 macOS | [Download `.dmg`](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest) |
-| 🪟 Windows | [Download `.exe`](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest) |
-| 🐧 Linux | [Download `.AppImage` / `.deb`](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest) |
+| 🍎 macOS | [Download from Cairo](https://cairo.colomboai.com/download) |
+| 🪟 Windows | [Download from Cairo](https://cairo.colomboai.com/download) |
+| 🐧 Linux | [Download from Cairo](https://cairo.colomboai.com/download) |
 
 > Cairo auto-updates. When a new version ships, you'll be notified in-app — one click to upgrade.
 
@@ -486,14 +486,14 @@ Every star tells us: *keep building*.
 - **Twitter/X**: [@ColomboAI](https://x.com/ColomboAI)
 - **Contact**: [colomboai.com/contact](https://colomboai.com/contact)
 - **ColomboAI**: [colomboai.com](https://colomboai.com)
-- **Releases**: [All versions](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases)
+- **Downloads**: [Desktop + Cairo Core](https://cairo.colomboai.com/download)
 
 ---
 
 <p align="center">
   <a href="https://cairo.colomboai.com"><strong>→ Launch Cairo Now</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest"><strong>→ Download Desktop App</strong></a>
+  <a href="https://cairo.colomboai.com/download"><strong>→ Download Desktop App</strong></a>
 </p>
 
 <p align="center">
