@@ -22,6 +22,18 @@
 
 ---
 
+## 🎬 See Cairo in Action
+
+<p align="center">
+  <video src="./assets/cairo-demo.mp4" controls width="960"></video>
+</p>
+
+<p align="center">
+  <a href="./assets/cairo-demo.mp4"><strong>▶ Watch the Cairo demo video</strong></a>
+</p>
+
+---
+
 ## 🚀 What Comes After Agents
 
 > **AI employees were the preview. Autonomous companies are the real category.**
