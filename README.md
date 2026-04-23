@@ -5,13 +5,13 @@
 <p align="center">
   <strong>Cairo's Autonomous Companies</strong><br/>
   The open platform where autonomous companies are built, deployed, and scaled.<br/>
-  <em>Turn AI into real companies — assign goals, launch departments, compound capabilities, and operate 24/7.</em>
+  <em>From agents to autonomous companies.</em>
 </p>
 
 <p align="center">
   <a href="https://cairo.colomboai.com"><strong>🌐 Launch WebUI — cairo.colomboai.com</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/ColomboAI-com/cairo-releases/releases/latest"><strong>⬇️ Download Desktop App</strong></a>
+  <a href="https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest"><strong>⬇️ Download Desktop App</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://x.com/ColomboAI"><strong>𝕏 Follow @ColomboAI</strong></a>
 </p>
@@ -19,6 +19,21 @@
 <p align="center">
   <sub>v2.0.0 &nbsp;|&nbsp; macOS · Windows · Linux &nbsp;|&nbsp; WebUI Live Now ✅</sub>
 </p>
+
+---
+
+## 🚀 What Comes After Agents
+
+> **AI employees were the preview. Autonomous companies are the real category.**
+
+Cairo turns AI from a tool you use into a company that operates.
+
+- Launch full AI companies, not isolated agents
+- Run departments, operators, workflows, and governance in one platform
+- Connect to real apps, take real actions, and operate 24/7
+- Start from a template and deploy in minutes
+
+**Turn AI into real companies — assign goals, launch departments, compound capabilities, and scale execution without babysitting.**
 
 ---
 
@@ -34,6 +49,15 @@ Autonomous Companies  →  AI IS the company  ✅
 
 Cairo is the first platform where you define a company, deploy it, and let it **operate itself** — 24/7, with real actions, real integrations, and real governance.
 
+Why this matters now:
+
+- Agents are saturated
+- Copilots are saturated
+- Workflows still need humans everywhere
+- The next frontier is software that operates like a company
+
+**Cairo is that frontier.**
+
 ---
 
 ## 🚀 Try It Right Now
@@ -48,9 +72,9 @@ Open your browser. Sign in. Start building.
 
 | Platform | Download |
 |----------|----------|
-| 🍎 macOS | [Download `.dmg`](https://github.com/ColomboAI-com/cairo-releases/releases/latest) |
-| 🪟 Windows | [Download `.exe`](https://github.com/ColomboAI-com/cairo-releases/releases/latest) |
-| 🐧 Linux | [Download `.AppImage` / `.deb`](https://github.com/ColomboAI-com/cairo-releases/releases/latest) |
+| 🍎 macOS | [Download `.dmg`](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest) |
+| 🪟 Windows | [Download `.exe`](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest) |
+| 🐧 Linux | [Download `.AppImage` / `.deb`](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest) |
 
 > Cairo auto-updates. When a new version ships, you'll be notified in-app — one click to upgrade.
 
@@ -462,14 +486,14 @@ Every star tells us: *keep building*.
 - **Twitter/X**: [@ColomboAI](https://x.com/ColomboAI)
 - **Contact**: [colomboai.com/contact](https://colomboai.com/contact)
 - **ColomboAI**: [colomboai.com](https://colomboai.com)
-- **Releases**: [All versions](https://github.com/ColomboAI-com/cairo-releases/releases)
+- **Releases**: [All versions](https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases)
 
 ---
 
 <p align="center">
   <a href="https://cairo.colomboai.com"><strong>→ Launch Cairo Now</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/ColomboAI-com/cairo-releases/releases/latest"><strong>→ Download Desktop App</strong></a>
+  <a href="https://github.com/ColomboAI-com/Cairo-Autonomous-Companies/releases/latest"><strong>→ Download Desktop App</strong></a>
 </p>
 
 <p align="center">
